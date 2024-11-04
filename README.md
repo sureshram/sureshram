@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sureshram
-- 👀 I’m interested in ... startup, ai, cloud computing, payment and media
-- 🌱 I’m currently learning ... streaming and privacy
+- 👀 I’m interested in ... startup, ai, analytics cloud computing
+- 🌱 I’m currently learning ... ai tools, llm etc.
 - 💞️ I’m looking to collaborate on ... digital marketing, payment
 - 📫 How to reach me ... [linkedin/sramakrishnaiah](https://www.linkedin.com/in/sramakrishnaiah/)
 
