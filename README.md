@@ -5,8 +5,8 @@
 - 📫 How to reach me ... [linkedin/sramakrishnaiah](https://www.linkedin.com/in/sramakrishnaiah/)
 - 🎧 Cloud Cost Optimization Podcast on Youtube: https://youtu.be/mnR0HmD0Qo0
 - 🎧 Cloud Cost Optimization Podcast on Spotify: https://spotifycreators-web.app.link/e/VhLwdD3spYb
-- 🎧 My Blogs Substack: https://open.substack.com/pub/technenthusiast/p/finops-cloud-cost-optimization-strategy?r=11orof&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true
-- YCombinator News: - https://news.ycombinator.com/threads?id=soorya3 
+- 🎧 My Blogs Substack: https://open.substack.com/pub/technenthusiast/
+- 🎧 My YCombinator News: - https://news.ycombinator.com/threads?id=soorya3 
 
 <!---
 sureshram/sureshram is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
